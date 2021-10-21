@@ -1,0 +1,5 @@
+-> Modelo para utilização de Tag:
+
+./waf --run "anglova-experiment --scenario=Company_1_24 --scenario-tag=500sec"
+
+./waf --run "anglova-ndn-experiment --scenario=Company_1_24 --scenario-tag=ndn_300sec"
